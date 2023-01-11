@@ -8,3 +8,11 @@ Try building a tic-tac-toe game that is completely text-based! using Bash
 |Aman Yadav|
 |Tanush Pradhan|
 
+# tic-tac-toe game for shell users
+# board design
+#  1 | 2 | 3
+#  --------
+#  4 | 5 | 6
+#  --------
+#  7 | 8 | 9
+
